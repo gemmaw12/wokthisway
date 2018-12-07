@@ -18,3 +18,12 @@
   background-size: cover;
   background-position: center;
 }
+
+.carousel-caption
+
+h1 {
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 80px;
+    color: white;
+}
