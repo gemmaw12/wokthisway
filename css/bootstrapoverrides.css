@@ -1,4 +1,29 @@
-.carousel-caption
+.first-slide
 {
-  background-image: url('backgroundimage.jpg')
+  background-image: url('slider.mains.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.second-slide
+{
+  background-image: url('slider.desserts.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.third-slide
+{
+  background-image: url('slider.drinks.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel-caption
+
+h1 {
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 80px;
+    color: white;
 }
